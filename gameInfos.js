@@ -171,4 +171,34 @@ gameInfos = [
       order: "desc",
     },
   },
+  {
+    name: "splatter",
+    fullName: "Splatter House [World new version)",
+    letter: "s",
+    order: ["score", "name"],
+    sort: {
+      by: "score",
+      order: "desc",
+    },
+  },
+  {
+    name: "splatterj",
+    fullName: "Splatter House (Japan)",
+    letter: "s",
+    ordner: ["score", "name"],
+    sort: {
+      by: "score",
+      order: "desc",
+    },
+  },
+  {
+    name: "splattero",
+    fullName: "Splatter House (World old version)",
+    letter: "s",
+    order: ["score", "name"],
+    sort: {
+      by: "score",
+      order: "desc",
+    },
+  },
 ];
